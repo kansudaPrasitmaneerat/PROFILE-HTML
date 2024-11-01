@@ -10,4 +10,4 @@ Chonburi Vocational College                      :  Digital Technology
 Chonburi Commercial Technology College (MCC)     :  Business Administration Computer
 
 
-![My Image](https://www.canva.com/design/DAGVOjECets/26b_wyGsqioXoYtGk9tsQg/view?utm_content=DAGVOjECets&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![My Image](https://github.com/kansudaPrasitmaneerat/PROFILE-HTML/issues/1#issue-2629543689)
